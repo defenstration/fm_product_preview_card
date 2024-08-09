@@ -46,7 +46,7 @@ body {
 /* Image Settings                        */
 img {
     display: block;
-    max-width: 100%;
+    max-width: 100%; 
 }
 
 /* remove animations for people who've turned them off */
@@ -81,7 +81,6 @@ img {
 
 .flex {
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -99,9 +98,32 @@ img {
 /*--------------------------------*/
 /* Styling                        */
 /*--------------------------------*/
-p {
-    color: red;
+
+* {
+    border: 1px solid black
 }
+
+
+.card-wrapper {
+    height: 600px;
+    width: 800px;
+    border-radius: 15px;
+}
+
+.img-wrapper, .info-wrapper{
+    width: 50%;
+    height: 100%;
+}
+
+.img-wrapper {
+    overflow: hidden;
+}
+
+.info-wrapper {
+    flex-direction: column;
+}
+
+
 
 /*--------------------------------*/
 /* Styling for small screens      */
