@@ -9,6 +9,7 @@
 /* Colors */
 :root {
     --clr-darkcyan: 158 36% 37%;
+    --clr-darkercyan: 158 36% 22%;
     --clr-cream: 30 38% 92%;
     --clr-darkblue: 212 21% 14%;
     --clr-greyblue: 228 12% 48%;
@@ -158,6 +159,11 @@ img {
     border: none;
     background-color: hsl(var(--clr-darkcyan));
     color: hsl(var(--clr-white));
+}
+
+.add-to-cart:hover {
+    cursor: pointer;
+    background-color: hsl(var(--clr-darkercyan));
 }
 
 .sale-price {

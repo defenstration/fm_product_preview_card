@@ -10,13 +10,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./product-preview-card-component-main/images/Screenshot%202024-09-06%20075205.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/defenstration/fm_product_preview_card](https://github.com/defenstration/fm_product_preview_card)
+- Live Site URL: [https://defenstration.github.io/fm_product_preview_card/](https://defenstration.github.io/fm_product_preview_card/)
 
 ## My process
 
@@ -46,20 +41,9 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
-### What I learned
-
-
-### Continued development
-
-
-### Useful resources
-
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [defenstration](https://github.com/defenstration)
 - Frontend Mentor - [@defenstration](https://www.frontendmentor.io/profile/defenstration)
 
-
-## Acknowledgments
 
